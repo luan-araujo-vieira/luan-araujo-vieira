@@ -7,3 +7,4 @@
 
 ### Minhas contribuições
 <img   src="https://github-readme-activity-graph.vercel.app/graph?username=luan-araujo-vieira&theme=github-compact"/>
+![snake animation](https://github.com/luan-araujo-vieira/luan-araujo-vieira/blob/output/github-contribution-grid-snake2.svg)
