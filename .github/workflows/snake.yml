@@ -19,7 +19,7 @@ jobs:
       - name: 🐍 Generate MultiSource Snake animation
         uses: Zqzqsb/MultiSourceSnake@v1.1
         with:
-          GITHUB_USER: # Your GitHub username {required}
+          GITHUB_USER: luan-araujo-vieira # Your GitHub username {required}
           GITEE_USER: # Your Gitee username {required}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITEE_TOKEN: # Your Gitee API access token {required}
